@@ -30,6 +30,9 @@ img{
 
 .box1{
     display: flex;
+    margin: 20px;
+    background-color: rgba(91, 255, 255, 0.4);
+    border-radius: 20px;
 }
 
 footer{
@@ -45,4 +48,17 @@ footer{
     text-align: center;
     color: red;
     text-decoration: underline;
+}
+
+#a{
+    color: red;
+}
+#b{
+    color: rgb(177, 177, 26);
+}
+#c{
+ color: green;
+}
+#d{
+ color: rgb(18, 18, 199);
 }
